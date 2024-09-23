@@ -1,0 +1,12 @@
+.forecast {
+    border: 5px solid;
+    border-color: peru;
+    text-align: center;
+    width: 350px;
+    background-color: aliceblue;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: orangered
+}
